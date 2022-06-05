@@ -1,9 +1,9 @@
 server:
-  port: 7000
+  port: 7002
 
 spring:
   application:
-    name: ms-product
+    name: ms-dashboard
 
 eureka:
   instance:
